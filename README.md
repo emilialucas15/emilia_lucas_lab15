@@ -26,4 +26,4 @@ Android app that classifies brain MRI images into four classes using a TensorFlo
 
 The most common error is glioma being predicted as meningioma.
 
-## Project structure
+
